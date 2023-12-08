@@ -1,8 +1,17 @@
 
- ![Tux, the Linux mascot](https://raw.githubusercontent.com/Shamimreza82/Shamimreza82/main/Banner-image.jpg)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/shamim--reza/">
+    <img src="https://raw.githubusercontent.com/Shamimreza82/Shamimreza82/main/2.jpg" alt="GitHub Streak" />
+  </a>
+</p>
+ 
  ##### Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shamimreza82&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shamim--reza/">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shamimreza82" alt="GitHub Streak" />
+  </a>
+</p>
+ 
 <hr/>
 
 <h3 align="center">My Skilled Language and Tools:</h3>
@@ -19,7 +28,7 @@
 
 <h3 align="center">Full-Stack Web Developer Proficient in MERN Stack Development</h3>
 <br/>
-<p align="left">I'm a MERN Stack Specialist, seasoned in Full-Stack Development with over 4 successful projects under my belt. Ready to dive into new opportunities, I'm eager to showcase my skills and innovation on Github. Let's connect and explore how my creativity can drive your company's growth through dedicated responsibilities.</p>
+<p align="left">I'm Shamim Reza, a dedicated MERN Stack developer, seasoned in Full-Stack Development with over 4 successful projects under my belt. Ready to dive into new opportunities, I'm eager to showcase my skills and innovation on Github. Let's connect and explore how my creativity can drive your company's growth through dedicated responsibilities.</p>
 <hr/>
 
 
@@ -31,18 +40,25 @@
 
 - 💬 Ask me about **Html, CSS, Tailwind CSS, RESTFull Api, JavaScript, React, Node Js, MongoDB**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d7hBgWg8UsWBRFO-5B7aZ_QTHqx0-Swy/view?usp=sharing]([https://drive.google.com/file/d/1d7hBgWg8UsWBRFO-5B7aZ_QTHqx0-Swy/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1d7hBgWg8UsWBRFO-5B7aZ_QTHqx0-Swy/view?usp=sharing]([https://drive.google.com/file/d/1d7hBgWg8UsWBRFO-5B7aZ_QTHqx0-Swy/view?usp=sharing)
+
 - 📫 How to reach me **shamimrezaone@gmail.com**
 <hr/>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shamim--reza/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/shamim--reza/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shamim Reza" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rezshamim67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shamim Reza" height="30" width="40" /></a>
-<a href="https://www.instagram.com/reza_shamim67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shamim Reza" height="30" width="40" /></a>
-</a>
-</p>
+<a href="https://www.facebook.com/rezshamim67/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+
 
 
 
