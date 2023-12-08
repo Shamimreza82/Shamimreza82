@@ -40,7 +40,8 @@
 
 - 💬 Ask me about **Html, CSS, Tailwind CSS, RESTFull Api, JavaScript, React, Node Js, MongoDB**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1d7hBgWg8UsWBRFO-5B7aZ_QTHqx0-Swy/view?usp=sharing]([https://drive.google.com/file/d/1d7hBgWg8UsWBRFO-5B7aZ_QTHqx0-Swy/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1d7hBgWg8UsWBRFO-5B7aZ_QTHqx0-Swy/view?usp=sharing](https://drive.google.com/file/d/1d7hBgWg8UsWBRFO-5B7aZ_QTHqx0-Swy/view?usp=sharing)
+
 
 - 📫 How to reach me **shamimrezaone@gmail.com**
 <hr/>
