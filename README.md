@@ -34,7 +34,7 @@
 
 <h3 align="center">More About me</h3>
 
-- ♨ Check out my portfolio and projects at [https://spectacular-paprenjak-725f22.netlify.app/](https://spectacular-paprenjak-725f22.netlify.app/)
+- ♨ Check out my portfolio and projects at [https://657398dd13a6c86d922b7a1f--mellow-donut-330622.netlify.app/](https://657398dd13a6c86d922b7a1f--mellow-donut-330622.netlify.app/)
 
 - 🌱 I’m currently learning **NextJs, TypeScript, Redux**
 
@@ -58,7 +58,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
 
 
 
