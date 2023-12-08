@@ -38,15 +38,11 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 </a>
-<a href="https://www.linkedin.com/in/shamim--reza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdouszihad" height="30" width="40" /></a>
-</a>
-<a href="https://www.facebook.com/rezshamim67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ferdouszihad.09" height="30" width="40" /></a>
-<a href="https://www.instagram.com/reza_shamim67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferdouszihad" height="30" width="40" /></a>
-</a>
-</a>
+<a href="https://www.linkedin.com/in/shamim--reza/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shamim Reza" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rezshamim67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shamim Reza" height="30" width="40" /></a>
+<a href="https://www.instagram.com/reza_shamim67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shamim Reza" height="30" width="40" /></a>
 </a>
 </p>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ferdouszihad&label=Profile%20views&color=0e75b6&style=flat" alt="ferdouszihad" /> </p> -->
 
 
