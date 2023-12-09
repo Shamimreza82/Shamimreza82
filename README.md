@@ -4,12 +4,16 @@
     <img src="https://raw.githubusercontent.com/Shamimreza82/Shamimreza82/main/2.jpg" alt="GitHub Streak" />
   </a>
 </p>
-<h3 align="center">Full-Stack Web Developer Proficient in MERN Stack Development</h3>
+<h3 align="center">Professional Full-Stack Web Developer(MERN) From Bangladesh</h3>
 
-<p align="left">I'm Shamim Reza, a dedicated MERN Stack developer, seasoned in Full-Stack Development with over 4 successful projects under my belt. Ready to dive into new opportunities, I'm eager to showcase my skills and innovation on Github. Let's connect and explore how my creativity can drive your company's growth through dedicated responsibilities.</p>
+I'm Shamim Reza, a dedicated MERN Stack developer, seasoned in Full-Stack Development with over 3+ successful projects under my belt. Ready to dive into new opportunities, Let's connect and explore how my creativity can drive your company's growth through dedicated responsibilities.
+
+My vision as a proficient MERN stack developer is to craft seamless, dynamic web experiences that transcend expectations. I aim to merge creativity with robust technical expertise, delivering innovative solutions that redefine user interactions and elevate online platforms to their fullest potential.
 <hr/>
 
 <p align="left">More About me</p>
+
+
 
 - ♨ Check out my portfolio and projects at [https://657398dd13a6c86d922b7a1f--mellow-donut-330622.netlify.app/](https://657398dd13a6c86d922b7a1f--mellow-donut-330622.netlify.app/)
 
@@ -21,6 +25,7 @@
 
 
 - 📫 How to reach me **shamimrezaone@gmail.com**
+- 📫 What's app/Phone: **+8801531297879**
 <hr/>
 
 
@@ -46,8 +51,9 @@
 
 </br>
 <hr/>
-
-
+<p align="left">Trophy:</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shamimreza82" alt="Shamimreza82" /></a> </p>
+<hr/>
 
 
 ### Projects
@@ -92,6 +98,7 @@ This Application is an e-commerce platform specializing in technology and electr
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
 
 
 
