@@ -15,7 +15,7 @@ My vision as a proficient MERN stack developer is to craft seamless, dynamic web
 
 
 
-- ♨ Check out my portfolio and projects at [https://657398dd13a6c86d922b7a1f--mellow-donut-330622.netlify.app/](https://657398dd13a6c86d922b7a1f--mellow-donut-330622.netlify.app/)
+- ♨ Check out my portfolio and projects at [https://657398dd13a6c86d922b7a1f--mellow-donut-330622.netlify.app/](https://steady-toffee-da0f77.netlify.app/)
 
 - 🌱 I’m currently learning **NextJs, TypeScript, Redux**
 
