@@ -79,17 +79,6 @@ I'm **Shamim Reza**, a dedicated **Full-Stack developer** with over 30+ successf
   </a>
 </div>
 
-<style>
-@keyframes bounce {
-  0%, 100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-10px);
-  }
-}
-</style>
-
 
 
 
