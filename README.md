@@ -1,105 +1,94 @@
-
 <p align="center">
   <a href="https://www.linkedin.com/in/shamim--reza/">
-    <img src="https://raw.githubusercontent.com/Shamimreza82/Shamimreza82/main/2.jpg" alt="GitHub Streak" />
+    <img src="https://raw.githubusercontent.com/Shamimreza82/Shamimreza82/main/2.jpg" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </a>
 </p>
-<h3 align="center">Professional Full-Stack Web Developer(MERN) From Bangladesh</h3>
-
-I'm Shamim Reza, a dedicated MERN Stack developer, seasoned in Full-Stack Development with over 3+ successful projects under my belt. Ready to dive into new opportunities, Let's connect and explore how my creativity can drive your company's growth through dedicated responsibilities.
-
-My vision as a proficient MERN stack developer is to craft seamless, dynamic web experiences that transcend expectations. I aim to merge creativity with robust technical expertise, delivering innovative solutions that redefine user interactions and elevate online platforms to their fullest potential.
-<hr/>
-
-<p align="left">More About me</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00000&width=500&lines=Full-Stack+Web+Developer(MERN)" alt="Typing Animation">
+</h2>
+<!--<h5 align="center">-->
+<!--  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFA500&width=435&lines=Building+Dynamic+Digital+Experiences+with+MERN+Stack+Mastery!" alt="Typing Animation">-->
 
 
+I'm **Shamim Reza**, a dedicated **Full-Stack developer** with over 30+ successful projects under my belt. I specialize in crafting seamless, dynamic web experiences that transcend expectations by merging creativity with technical expertise.
 
-- ♨ Check out my portfolio and projects at [https://657398dd13a6c86d922b7a1f--mellow-donut-330622.netlify.app/](https://steady-toffee-da0f77.netlify.app/)
+- 🌐 **Portfolio**: [Visit My Portfolio](https://rezadev.netlify.app/)
+- 📜 **Resume**: [Download Resume](https://drive.google.com/file/d/1XZtNig0BWS7tcagVPGSxK9rPCvcP2mEe/view?usp=sharing)
+- 🌱 **Currently Learning**: **Next.js, TypeScript, Redux, Mongoose**
+- 💬 **Ask Me About**: **HTML, CSS, Tailwind CSS, RESTful APIs, JavaScript, React, Node.js, express MongoDB**
+- 📧 **Contact**: **shamimrezaone@gmail.com** | **+8801531297879**
 
-- 🌱 I’m currently learning **NextJs, TypeScript, Redux**
+---
 
-- 💬 Ask me about **Html, CSS, Tailwind CSS, RESTFull Api, JavaScript, React, Node Js, MongoDB**
-
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1d7hBgWg8UsWBRFO-5B7aZ_QTHqx0-Swy/view?usp=sharing](https://drive.google.com/file/d/1d7hBgWg8UsWBRFO-5B7aZ_QTHqx0-Swy/view?usp=sharing)
-
-
-- 📫 How to reach me **shamimrezaone@gmail.com**
-- 📫 What's app/Phone: **+8801531297879**
-<hr/>
-
-
- 
- <p align="left">Current Status</p>
-</br>
-<p align="center">
+### 🚀 **Current Status**
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shamimreza82&theme=green-nur&hide_border=true&border_radius=4&card_width=507&ring=B5C7C1&background=001031&border=002C6D&stroke=004A5D&fire=EB5454" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shamimreza82&theme=green-nur&hide_border=true&border_radius=4&card_width=507&ring=B5C7C1&background=001031&border=002C6D&stroke=004A5D&fire=EB5454" alt="GitHub Streak" />
+  </a>
 </p>
- 
-<hr/>
 
-<p align="left">My Skilled Language and Tools:</p>
-</br>
+---
+
+### 🛠️ **My Skills and Tools**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nodejs,express,mongodb,git,vercel,firebase,vscode,github," />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nodejs,express,mongodb,git,vercel,firebase,vscode,github" alt="Skills" style="animation: bounce 2s infinite;">
   </a>
 </p>
 
-</br>
-<hr/>
-<p align="left">Trophy:</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shamimreza82" alt="Shamimreza82" /></a> </p>
-<hr/>
+---
 
+### 🏆 **Trophies**
 
-### Projects
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shamimreza82&theme=dracula&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
+---
 
-#### Blood Donation Application(Life Lines)
-The Blood Donation Application is a platform designed to facilitate seamless blood donation activities, connecting donors with individuals in need of blood. This project is built using the MERN stack (MongoDB, Express.js, React, Node.js).
- #####  [Live Link](https://blood-donation-28936.web.app)
- ##### [Client Code](https://github.com/Shamimreza82/Blood-donation-app-client)
-##### [Server Code](https://github.com/Shamimreza82/Blood-donation-app-server)
-Admin-Email admin@gmail.com 
-<br/>
-Admin-Pass 112233 
-<br/>
-<br/>
+### 🌟 **Projects**
 
-#### Hotel Booking Web Application(Swift Stay)
-This project is a Hotel Booking Web Application that aims to provide users with a seamless experience in booking hotel accommodations. It offers various features and functionalities that enhance user interaction and ensure a smooth booking process.
- #####  [Live Link](https://swiftstay-931f1.web.app)
- ##### [Client Code](https://github.com/Shamimreza82/swift-stay-hotel-booking-app-client)
-##### [Server Code]( https://github.com/Shamimreza82/swift-stay-hotel-booking-app-server)
-<br/>
+#### Blood Donation Application (Life Lines)
+- A platform connecting blood donors with those in need.
+- **Tech Stack**: MERN (MongoDB, Express, React, Node.js)
+- 🔗 [Live Demo](https://blood-donation-28936.web.app) | [Client Code](https://github.com/Shamimreza82/Blood-donation-app-client) | [Server Code](https://github.com/Shamimreza82/Blood-donation-app-server)
+- **Admin Credentials**: Email: admin@gmail.com | Password: 112233
 
-#### Brand Shop Web Application(Tech Globe Hub)
-This Application is an e-commerce platform specializing in technology and electronics. It allows users to explore and purchase products from leading brands in the industry
- #####  [Live Link](https://brand-shop-af581.web.app)
- ##### [Client Code](https://github.com/Shamimreza82/brand-shop-client-A10)
-##### [Server Code](https://github.com/Shamimreza82/brand-shop-server-A10)
+#### Hotel Booking Web Application (Swift Stay)
+- A seamless hotel booking experience for users.
+- 🔗 [Live Demo](https://swiftstay-931f1.web.app) | [Client Code](https://github.com/Shamimreza82/swift-stay-hotel-booking-app-client) | [Server Code](https://github.com/Shamimreza82/swift-stay-hotel-booking-app-server)
 
-<hr/>
+#### Brand Shop Web Application (Tech Globe Hub)
+- An e-commerce platform for technology and electronics.
+- 🔗 [Live Demo](https://brand-shop-af581.web.app) | [Client Code](https://github.com/Shamimreza82/brand-shop-client-A10) | [Server Code](https://github.com/Shamimreza82/brand-shop-server-A10)
 
+---
 
-
-<h3 align="center">Connect with me:</h3>
+### 🤝 **Connect with Me**
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/shamim--reza/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/rezshamim67/" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/shamim--reza/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/rezshamim67/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-
+<style>
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+</style>
 
 
 
