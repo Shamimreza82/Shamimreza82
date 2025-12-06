@@ -4,18 +4,18 @@
   </a>
 </p>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00000&width=500&lines=Full-Stack+Web+Developer(MERN)" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00000&width=500&lines=Full-Stack+Web+Developer" alt="Typing Animation">
 </h2>
 <!--<h5 align="center">-->
 <!--  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFA500&width=435&lines=Building+Dynamic+Digital+Experiences+with+MERN+Stack+Mastery!" alt="Typing Animation">-->
 
 
-I'm **Shamim Reza**, a dedicated **Full-Stack developer** with over 30+ successful projects under my belt. I specialize in crafting seamless, dynamic web experiences that transcend expectations by merging creativity with technical expertise.
+I'm **Shamim Reza**, a dedicated **Full-Stack web developer** with over 30+ successful projects under my belt. I specialize in crafting seamless, dynamic web experiences that transcend expectations by merging creativity with technical expertise.
 
-- 🌐 **Portfolio**: [Visit My Portfolio](https://rezadev.netlify.app/)
+- 🌐 **Portfolio**: [Visit My Portfolio]([(https://rezahub.com/)](https://rezahub.com/))
 - 📜 **Resume**: [Download Resume](https://drive.google.com/file/d/1XZtNig0BWS7tcagVPGSxK9rPCvcP2mEe/view?usp=sharing)
 - 🌱 **Currently Learning**: **Next.js, TypeScript, Redux, Mongoose**
-- 💬 **Ask Me About**: **HTML, CSS, Tailwind CSS, RESTful APIs, JavaScript, React, Node.js, express MongoDB**
+- 💬 **Ask Me About**: **HTML, CSS, Tailwind CSS, REST APIs, JavaScript, TypeScript, React, Node.js, express, MongoDB, prisma, prosgres, nest.js, nextjs, GraphQL**
 - 📧 **Contact**: **shamimrezaone@gmail.com** | **+8801531297879**
 
 ---
@@ -51,6 +51,10 @@ I'm **Shamim Reza**, a dedicated **Full-Stack developer** with over 30+ successf
 ---
 
 ### 🌟 **Projects**
+#### Fintech App (finupsbd)
+- A platform connecting blood donors with those in need.
+- **Tech Stack**: PRAN (Prosgres, prisma, Express, React, Node.js, Gemini api)
+- 🔗 [Live Demo](https://finupsbd.com) 
 
 #### Blood Donation Application (Life Lines)
 - A platform connecting blood donors with those in need.
