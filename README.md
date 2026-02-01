@@ -14,8 +14,8 @@ I'm **Shamim Reza**, a dedicated **Full-Stack web developer** with over 30+ succ
 
 - 🌐 **Portfolio**: [Visit My Portfolio]([(https://rezahub.com/)](https://rezahub.com/))
 - 📜 **Resume**: [Download Resume](https://drive.google.com/file/d/1XZtNig0BWS7tcagVPGSxK9rPCvcP2mEe/view?usp=sharing)
-- 🌱 **Currently Learning**: **Next.js, TypeScript, Redux, Mongoose**
-- 💬 **Ask Me About**: **HTML, CSS, Tailwind CSS, REST APIs, JavaScript, TypeScript, React, Node.js, express, MongoDB, prisma, prosgres, nest.js, nextjs, GraphQL**
+- 🌱 **Currently Learning**: **Ai, Python, , Mongoose**
+- 💬 **Ask Me About**: **REST APIs, JavaScript, TypeScript, React, Node.js, express, MongoDB, prisma, prosgresSQL, nest.js, nextjs, GraphQL,**
 - 📧 **Contact**: **shamimrezaone@gmail.com** | **+8801531297879**
 
 ---
