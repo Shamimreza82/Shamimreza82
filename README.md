@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/shamim--reza/">
+  <!-- <a href="https://www.linkedin.com/in/shamim--reza/">
     <img src="https://raw.githubusercontent.com/Shamimreza82/Shamimreza82/main/2.jpg" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
+  </a> -->
 </p>
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00000&width=500&lines=Full-Stack+Web+Developer" alt="Typing Animation">
